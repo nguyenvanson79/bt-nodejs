@@ -15,5 +15,8 @@
     "url": "https://github.com/nguyenvanson79/bt-nodejs/issues"
   },
   "homepage": "https://github.com/nguyenvanson79/bt-nodejs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
